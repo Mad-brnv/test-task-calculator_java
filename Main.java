@@ -93,7 +93,7 @@ class Calculat {
             answer = String.valueOf(val);
             return answer;
         }else {
-            return "хуита";
+            return "0";
         }
 }
 
